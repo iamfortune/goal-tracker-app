@@ -1,0 +1,22 @@
+#container {
+    width: 360px;
+    margin: 100px auto;
+    background-color: #f7f7f7;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+}
+ 
+/* a stylesheet for a goal that's inputed,
+this is used to avoid an event bubble */
+.completed {
+    color: gray;
+    text-decoration: line-through;
+}
+
+h1 {
+    background-color: #2d92d4;
+    color: white;
+    margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+     v
+}
